@@ -1,6 +1,6 @@
 <?php
 
-namespace MauticPlugin\MauticTestBundle\Integration;
+namespace MauticPlugin\MauticMosaicoBundle\Integration;
 
 use Mautic\PluginBundle\Integration\AbstractIntegration;
 
